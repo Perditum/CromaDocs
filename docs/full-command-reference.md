@@ -1,0 +1,2 @@
+# Full Command Reference
+Please refer to the [Vortex command reference](https://github.com/jagrosh/Vortex/wiki/Commands), as the commands are mostly the same and I can't be assed to write everything out right now.
