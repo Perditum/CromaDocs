@@ -14,8 +14,9 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Croma',
+        // text: 'Croma',
         items: [
+          { text: 'Prerequesites', link: '/prerequesites' },
           { text: 'Getting Started', link: '/getting-started' },
           { text: 'Strike System', link: '/strike-system' },
           { text: 'Automod', link: '/automod' },
@@ -25,7 +26,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Perditum/Croma' }
+      { icon: 'github', link: 'https://github.com/Perditum/Croma' },
+      { icon: 'discord', link: 'https://discord.gg/YCqGZrVYym' }
     ]
   }
 })

@@ -3,7 +3,7 @@
 ## What is this?
 Croma Pro is a more advanced version of the Croma bot for bigger servers. It gives moderators access to more features to moderate their servers. Croma Pro Lite is the same thing, but has a smaller barrier of entry.
 
-## Whwt are the feature differences?
+## What are the feature differences?
 Croma Pro includes voice logs, server lookup, a seperate bot, filters and link redirect resolving. Croma Pro Lite also includes most of those features, but excludes link resolving, the seperate bot and server lookup.
 
 ## Features
