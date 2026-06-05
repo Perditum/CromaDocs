@@ -9,7 +9,7 @@ To add the bot to your server, follow the link [here](https://cromabot.com/invit
 For the bot to function correctly, you need to move its role as far up as you can.
 
 Example:
-![hi](https://cdn.discordapp.com/attachments/1324543498271199295/1511832369290805248/gif.gif?ex=6a21e31d&is=6a20919d&hm=643423ec27f28173a72653b4f442e4b6ae67a01575af334a440462f3afd2fc47&)
+![if you can see this the gif hasnt loaded yet](https://cdn.s3web.perditum.com/gif.gif)
 
 ## Configuration
 Now we can start configuring the bot!
