@@ -26,7 +26,8 @@ Now, you will want to setup log channels. You can either have one channel for ev
 - `>>messagelog <#channel>`
 - `>>serverlog <#channel>`
 - `>>voicelog <#channel>` (Pro required)
-- `>>avatarlog <#channel>` (Not yet available)
+- `>>avatarlog <#channel>` (Pro lite required)
+
 Optionally, you may set a timezone with `>>timezone`, but this is not required.
 
 ## Congratulations!

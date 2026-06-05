@@ -24,7 +24,7 @@ If a user sends a link with a link shortener, the bot will resolve it and check 
 
 ## Anti-copypasta
 ::: warning
-This feature is currently non-functional.
+This feature is currently non-functional and will be fixed in a later version.
 :::
 
 ## Anti-everyone
@@ -64,9 +64,11 @@ To disable:
 `>>maxlines OFF`
 
 ## Automatic anti-raid mode
-::: warning
-This feature is currently non-functional.
-:::
+Turning this feature on will enable Anti-Raid mode if a raid is detected. Anti Raid mode kicks members when they join with a message explaining that the server is being raided. You can turn the feature on manually with `>>raidmode on/off`, but to use it automatically, read below.
+
+You need to use the command `>>autoraidmode <joins>/<second>`, which will enable the mode if that number of joins per second is passed.
+
+Example: running `>>autoraidmode 2/3` will enable Anti-Raid mode if 2 people join within 3 seconds.
 
 ## Automatic Dehoisting
 Removes the "!" in front of members' names to prevent them from hogging the member list.
@@ -78,5 +80,5 @@ To disable:
 
 ## Filters
 ::: warning
-Filters and related documentation are limited to Croma Pro users.
+Filters and related documentation are limited to Croma Pro users to prevent abuse.
 :::
